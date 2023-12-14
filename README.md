@@ -11,7 +11,7 @@ Podinfo is used by CNCF projects lik11e [Flux](https://github.com/fluxcd/flux2) 
 for end-to-end testing and workshops.1111
 11
 Specifications:
-
+11
 * Health checks (readiness and liveness)
 * Graceful shutdown on interrupt signals
 * File watcher for secrets and configmaps
