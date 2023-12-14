@@ -7,7 +7,7 @@
 [![Docker Pulls](https://img.shields.io/docker/pulls/stefanprodan/podinfo)](https://hub.docker.com/r/stefanprodan/podinfo)
 
 Podinfo is a tiny web application made with Go that showcases best practices of running microservices in Kubernetes.
-Podinfo is used by CNCF projects lik11e [Flux](https://github.com/fluxcd/flux2) and [Flagger](https://github.com/fluxcd/flagger)
+Podinfo is used by CNCF projects lik11e [Flux](https://github.com/fluxcd/flux2) and [Flagger](https://github.com/fluxcd/flagger)111
 for end-to-end testing and workshops.1111
 11
 Specifications:
