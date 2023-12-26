@@ -7,7 +7,7 @@
 [![Docker Pulls](https://img.shields.io/docker/pulls/stefanprodan/podinfo)](https://hub.docker.com/r/stefanprodan/podinfo)
 11111
 Podinfo is a tin111y web application made with Go that showcases best practices of running microservices in Kubernetes.
-Podinfo is used by CNCF projects lik11e [Flux](https://github.com/fluxcd/flux2) and [Flagger](https://github.com/fluxcd/flagger)111111
+Podinfo is used by CNCF projects lik11e [Flux](https://github.com/fluxcd/flux2) and [Flagger](https://github.com/fluxcd/flagger)1111111
 for end-to-end testing and workshops.1111111
 11
 Specifications:111111
