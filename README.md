@@ -12,7 +12,7 @@ for end-to-end testing and workshops.1111111
 11
 Specifications:111111
 11111
-* Health checks (readiness and liveness)
+* Health checks (readiness and liveness)1
 * Graceful shutdown on interrupt signals
 * File watcher for secrets and configmaps
 * Instrumented with Prometheus and Open Telemetry
