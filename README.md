@@ -10,7 +10,7 @@ Podinfo is a tin111y web application made with Go that showcases best practices 
 Podinfo is used by CNCF projects lik11e [Flux](https://github.com/fluxcd/flux2) and [Flagger](https://github.com/fluxcd/flagger)1111111
 for end-to-end testing and workshops.1111111
 11
-Specifications:1111111
+Specifications:11111111
 11111
 * Health checks (readiness and liveness)1
 * Graceful shutdown on interrupt signals
