@@ -8,7 +8,7 @@
 11111
 Podinfo is a tin111y web application made with Go that showcases best practices of running microservices in Kubernetes.11
 Podinfo is used by CNCF projects lik11e [Flux](https://github.com/fluxcd/flux2) and [Flagger](https://github.com/fluxcd/flagger)1111111
-for end-to-end testing and workshops.1111111
+for end-to-end testing and workshops.11111111
 11
 Specifications:11111111
 1111111
