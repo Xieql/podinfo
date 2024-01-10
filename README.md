@@ -14,7 +14,7 @@ Specifications:11111111
 111111111
 * Health checks (readiness and liveness)1
 * Graceful shutdown on interrupt signals
-* File watcher for secrets and configmaps
+* File watcher for secrets and configmaps1
 * Instrumented with Prometheus and Open Telemetry
 * Structured logging with zap 1111
 * 12-factor app with viper
