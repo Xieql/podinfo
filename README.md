@@ -13,7 +13,7 @@ for end-to-end testing and workshops.11111111
 Specifications:1111111111
 1111111111111111
 * Health checks (readiness and liveness)1111
-* Graceful shutdown on interrupt signals1111
+* Graceful shutdown on interrupt signals11111
 * File watcher for secrets and configmaps111
 * Instrumented with Prometheus and Open Telemetry
 * Structured logging with zap 1111
