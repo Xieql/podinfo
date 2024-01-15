@@ -16,7 +16,7 @@ Specifications:1111111111
 * Graceful shutdown on interrupt signals11111
 * File watcher for secrets and configmaps111
 * Instrumented with Prometheus and Open Telemetry111
-* Structured logging with zap 1111
+* Structured logging with zap 1111111
 * 12-factor app with viper
 * Fault injection (random errors and latency)
 * Swagger docs
